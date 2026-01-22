@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+# local version
 __pycache__/
 *.pyc
 .venv/
 .env
+=======
+# remote version
+*.log
+node_modules/
+dist/
+>>>>>>> origin/main
